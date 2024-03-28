@@ -5,6 +5,7 @@ console.log(
 
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
+l;
 
 // YOUR CODE HERE
 
